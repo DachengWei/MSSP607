@@ -15,7 +15,9 @@ Skills you will practice:
 **Step 1: Prepare Your Data**
 
 Create a CSV file (or use a provided sample CSV) containing the following information for each student:
- 
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/7e937a00-f3e0-441b-bcc5-1b645c437bd2">
+
 Additionally, you'll create another CSV file for connections between students. Each connection represents a relationship or shared interest. It could be friendships, collaboration on projects, shared classes, etc.
  
 **Step 2: Load and Organize the Data**

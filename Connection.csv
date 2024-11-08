@@ -1,0 +1,86 @@
+Student_ID1,Student_ID2,Connection_Type
+1,2,Friendship
+1,6,Friendship
+2,3,ProjectCollaboration
+1,3,SharedClass
+40,53,ProjectCollaboration
+4,5,Friendship
+5,1,ProjectCollaboration
+4,6,ProjectCollaboration
+4,3,ProjectCollaboration
+38, 29, SharedClass
+32, 41, SharedClass
+41, 11, Friendship
+42, 50, Friendship
+26, 22, ProjectCollaboration
+36, 12, Friendship
+48, 32, Friendship
+42, 30, Friendship
+19, 3, SharedClass
+25, 34, Friendship
+10, 3, SharedClass
+44, 37, Friendship
+4, 19, SharedClass
+29, 36, Friendship
+33, 1, ProjectCollaboration
+3, 37, ProjectCollaboration
+10, 22, SharedClass
+45, 21, ProjectCollaboration
+5, 2, ProjectCollaboration
+28, 47, SharedClass
+43, 46, ProjectCollaboration
+5, 27, SharedClass
+17, 22, SharedClass
+36, 43, ProjectCollaboration
+33, 39, ProjectCollaboration
+11, 26, SharedClass
+3, 46, Friendship
+32, 9, ProjectCollaboration
+41, 17, ProjectCollaboration
+46, 47, ProjectCollaboration
+17, 14, Friendship
+17, 49, Friendship
+16, 30, ProjectCollaboration
+7, 2, Friendship
+31, 3, SharedClass
+13, 23, SharedClass
+22, 40, Friendship
+42, 14, SharedClass
+42, 13, SharedClass
+10, 47, ProjectCollaboration
+4, 15, ProjectCollaboration
+7, 23, SharedClass
+4, 24, SharedClass
+48, 36, SharedClass
+39, 3, SharedClass
+26, 36, ProjectCollaboration
+48, 34, Friendship
+42, 31, ProjectCollaboration
+17, 25, SharedClass
+5, 39, ProjectCollaboration
+15, 21, ProjectCollaboration
+49, 21, ProjectCollaboration
+6, 49, ProjectCollaboration
+21, 29, ProjectCollaboration
+30, 40, Friendship
+14, 6, ProjectCollaboration
+40, 9, SharedClass
+47, 34, Friendship
+4, 9, ProjectCollaboration
+38, 43, Friendship
+50, 44, SharedClass
+27, 3, Friendship
+6, 18, ProjectCollaboration
+27, 49, ProjectCollaboration
+37, 4, Friendship
+3, 25, SharedClass
+39, 3, Friendship
+30, 37, SharedClass
+43, 32, ProjectCollaboration
+43, 33, ProjectCollaboration
+51, 44, SharedClass
+8, 34, Friendship
+3, 12, Friendship
+3, 20, Friendship
+52, 30, SharedClass
+35, 37, SharedClass

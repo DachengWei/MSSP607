@@ -1,0 +1,54 @@
+Student_ID,Name,Age,Gender,Major,Year,Interests
+1, Hannah, 21, Male, Chemistry, Freshman, C++
+2, David, 18, Female, Chemistry, Junior, AI
+3, Alice, 21, Male, English, Junior, Philosophy
+4, Ivan, 24, Female, Art, Junior, Java
+5, Charlie, 20, Male, Chemistry, Freshman, Art History
+6, David, 22, Female, Math, Junior, C++
+7, Bob, 20, Male, Chemistry, Sophomore, Art History
+8, Judy, 25, Male, Biology, Freshman, Literature
+9, Hannah, 22, Female, Math, Junior, Literature
+10, Alice, 20, Male, Biology, Freshman, Data Science
+11, Grace, 21, Female, History, Sophomore, Java
+12, Alice, 19, Female, Physics, Senior, Literature
+13, Alice, 25, Female, Music, Senior, Python
+14, Charlie, 24, Male, Chemistry, Senior, C++
+15, Alice, 23, Male, Physics, Freshman, Java
+16, Charlie, 25, Female, Music, Junior, Music Theory
+17, David, 20, Female, English, Senior, Literature
+18, Judy, 25, Male, History, Sophomore, Philosophy
+19, Bob, 21, Male, Chemistry, Freshman, AI
+20, Alice, 23, Male, Chemistry, Freshman, Python
+21, Frank, 25, Female, Philosophy, Freshman, Machine Learning
+22, Grace, 24, Female, English, Senior, Machine Learning
+23, Judy, 20, Male, Art, Freshman, Philosophy
+24, Alice, 20, Male, Math, Freshman, Python
+25, Bob, 22, Female, English, Sophomore, Philosophy
+26, Judy, 20, Female, Chemistry, Sophomore, Java
+27, Grace, 21, Female, English, Junior, Music Theory
+28, Alice, 25, Female, Math, Sophomore, Data Science
+29, Ivan, 23, Male, Art, Senior, Literature
+30, Grace, 18, Female, Philosophy, Freshman, AI
+31, Judy, 18, Female, History, Freshman, C++
+32, Hannah, 18, Male, Computer Sci, Senior, Art History
+33, Ivan, 20, Female, Biology, Junior, Music Theory
+34, Grace, 25, Female, Art, Junior, Python
+35, Frank, 18, Male, Chemistry, Senior, Java
+36, Frank, 24, Female, Philosophy, Sophomore, C++
+37, Judy, 22, Female, Chemistry, Freshman, C++
+38, Hannah, 23, Male, Chemistry, Sophomore, Philosophy
+39, Hannah, 18, Male, Biology, Junior, Machine Learning
+40, Eva, 23, Male, Music, Junior, C++
+41, David, 24, Male, Philosophy, Junior, AI
+42, Judy, 18, Female, Music, Freshman, Literature
+43, Alice, 20, Female, Biology, Senior, Philosophy
+44, Ivan, 19, Female, Math, Sophomore, Python
+45, Ivan, 21, Female, Music, Junior, Machine Learning
+46, Grace, 25, Female, Physics, Senior, Literature
+47, Judy, 24, Female, English, Senior, Music Theory
+48, Ivan, 22, Female, Music, Senior, Machine Learning
+49, Grace, 22, Female, Philosophy, Senior, Machine Learning
+50, Hannah, 23, Male, Chemistry, Senior, Music Theory
+51, Judy, 25, Female, Physics, Junior, Data Science
+52, Ivan, 24, Female, Computer Sci, Junior, Art History
+53, Ivan, 23, Female, Philosophy, Sophomore,
